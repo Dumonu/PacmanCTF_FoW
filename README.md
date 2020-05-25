@@ -3,5 +3,5 @@
 ## Project Collaborators
 
 Jacob Cherry
-Ryan Lira
 
+Ryan Lira
